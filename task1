@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>kumkumapraneetha</h1>
+        <p>Your tagline or brief introduction</p>
+    </header>
+
+    <section id="about">
+        <img src="C:\Users\91939\OneDrive - B V Raju Institute of Technology\Desktop\codsoft\praneetha.jpg" alt="kumkumapraneetha">
+        <p> Iam kumkumapraneetha aiming to leverage my passion for Artificial Intelligence and Machine learning and my existing knowledge and analytical skills to gain a deep understanding of advanced concepts, develop strong leadership abilities, and equip myself with the necessary tools for a successful career in strategic management and organizational leadership.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>AI</li>
+            <li>ML</li>
+            <li>PYTHON</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Prediction of Identical Twins using ML</h3>
+            <p>Identical twins result from the fertilization of a single egg by a single sperm, with the fertilized egg then splitting into two. Identical twins share the same genomes and are nearly always the same sex.</p>
+            <img src="C:\Users\91939\OneDrive - B V Raju Institute of Technology\Desktop\codsoft\prjt.jpg" alt="Project Image">
+        </div>
+    </section>
+
+    <section id="resume">
+        <a href="C:\Users\91939\OneDrive - B V Raju Institute of Technology\Desktop\codsoft\praneetha resume.pdf" download>Download Resume</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: munnyk114@gmail.com</p>
+        <p>Phone: 9701545307</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 kumkumaPraneetha. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
